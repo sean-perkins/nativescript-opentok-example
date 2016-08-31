@@ -1,12 +1,16 @@
 {
-	"description": "NativeScript Application",
-	"license": "SEE LICENSE IN <your-license-filename>",
-	"readme": "NativeScript Application",
-	"repository": "<fill-your-repository-here>",
-	"nativescript": {
-		"id": "org.nativescript.opentokexampleproj"
-	},
-	"dependencies": {
-		"tns-core-modules": "2.2.1"
-	}
+  "description": "NativeScript Application",
+  "license": "MIT",
+  "readme": "NativeScript Application",
+  "repository": "https://github.com/sean-perkins/opentok-example-proj",
+  "nativescript": {
+    "id": "org.mobileagility.opentokexampleproj",
+    "tns-ios": {
+      "version": "2.2.1"
+    }
+  },
+  "dependencies": {
+    "nativescript-opentok": "^1.4.4",
+    "tns-core-modules": "2.2.1"
+  }
 }
