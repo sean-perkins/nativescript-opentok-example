@@ -2,7 +2,7 @@
   "description": "NativeScript Application",
   "license": "MIT",
   "readme": "NativeScript Application",
-  "repository": "https://github.com/sean-perkins/opentok-example-proj",
+  "repository": "https://github.com/sean-perkins/nativescript-opentok-example",
   "nativescript": {
     "id": "org.mobileagility.opentokexampleproj",
     "tns-ios": {
