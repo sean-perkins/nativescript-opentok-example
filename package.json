@@ -6,11 +6,11 @@
   "nativescript": {
     "id": "org.mobileagility.opentokexampleproj",
     "tns-ios": {
-      "version": "2.2.1"
+      "version": "2.4.0"
     }
   },
   "dependencies": {
-    "nativescript-opentok": "^1.5.5",
-    "tns-core-modules": "2.2.1"
+    "nativescript-opentok": "^1.6.2",
+    "tns-core-modules": "2.4.0"
   }
 }
