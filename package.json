@@ -10,7 +10,7 @@
     }
   },
   "dependencies": {
-    "nativescript-opentok": "^1.6.2",
+    "nativescript-opentok": "^1.6.3",
     "tns-core-modules": "2.4.0"
   }
 }
